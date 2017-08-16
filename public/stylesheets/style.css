@@ -1,0 +1,25 @@
+.featured-flex-box{
+  height: 230px;
+  display: flex;                   /* defines flexbox */
+  flex-direction: column;          /* top to bottom */
+  justify-content: space-between;  /* first item at start, last at end */
+}
+
+.others-flex-box{
+  height: 80px;
+  display: flex;                   /* defines flexbox */
+  flex-direction: column;          /* top to bottom */
+  justify-content: space-between;  /* first item at start, last at end */
+}
+
+.featured{
+  background-color: #e4ede3;
+}
+
+.contact{
+  background-color: #e4ede3;
+}
+
+.title{
+  color: #424242;
+}
